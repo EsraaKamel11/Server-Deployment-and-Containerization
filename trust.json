@@ -4,9 +4,10 @@
         {
             "Effect": "Allow",
             "Principal": {
-                "AWS": "arn:aws:iam::519002666132:root"
+                "AWS": "arn:aws:iam::533267042370:user/github-action-user"
             },
             "Action": "sts:AssumeRole"
         }
     ]
 }
+
